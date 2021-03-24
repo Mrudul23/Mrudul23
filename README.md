@@ -11,7 +11,7 @@ I am learning to code from Whitehat jr and you can too. You can register by tapp
 
 ### Languages mostly used:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="40" src="https://lh3.googleusercontent.com/proxy/-db9_A-io3xA_q2tDs1dnM5AsR4qnams1PHm1YPXNwDiv3qgKgZt_EWz7PQGHDEMrunrET4MrgQ7Loo9PgrxxVtaPBnKi3ukEY8goxY" alt="html"></code>
+<code><img height="40" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1587977020" alt="html"></code>
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ltlZdKOGBwNKlR2sWL_2vDJFA9d8wyGd2A&usqp=CAU" alt="html"></code>
 
 	
